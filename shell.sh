@@ -68,5 +68,3 @@ HISTFILESIZE=100000                  # A huge number of commands in the file.
 # export HISTIGNORE="ls:history"     # Any commands we want to not record?
 # HISTTIMEFORMAT='%F %T '            # Do we want a timestamp for commands?
 
-# Set the theme. Do not fail if the function doesn't exist.
-set_ps1 "debian" || true

@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/bash
 
 # This script installs the dotfiles locally. Note that it should be run from the
 # dotfiles folder so that the links are set properly!
